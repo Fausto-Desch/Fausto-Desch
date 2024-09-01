@@ -1,6 +1,5 @@
 # ¡Hola, soy Usuario!
 
-- 🔭 Actualmente estoy trabajando en [proyecto interesante].
-- 🌱 Estoy aprendiendo [tecnología].
-- 👯 Estoy buscando colaborar en [tipo de proyectos].
-- 📫 Puedes contactarme en [email o redes sociales].
+- 🔭 Actualmente estoy estudiando en la universidad tecnologica nacional de bahia Blanca.
+- 🌱 Estoy estudiando programacion.
+
