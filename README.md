@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario)
 [![Tumblr](https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr)](https://www.tumblr.com/tu_usuario)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/tu_usuario)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/Fausto🤝😎)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/tu_usuario)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fashur12&color=blue)
