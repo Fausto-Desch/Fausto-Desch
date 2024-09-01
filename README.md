@@ -12,7 +12,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/tu_usuario)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/tu_usuario)
 
-![Profile views](https://gpvc.arturio.dev/fashur12)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=fashur12)
 
 ## 🌟 Sobre mí
 - 👋 Hola, soy [Tu Nombre] y soy un desarrollador apasionado por [tu especialidad o intereses].
