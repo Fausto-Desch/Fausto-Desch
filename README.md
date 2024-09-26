@@ -18,7 +18,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fashur12&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
-## Conéctame
+## Contactame
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/fashur12)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:fausdesch2210@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@itsfausto7939)
