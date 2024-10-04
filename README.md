@@ -5,7 +5,7 @@
 ## 🌟 Sobre mí
 - 👋 Hola, soy Fausto y soy un desarrollador apasionado por la programación.
 - 💼 Actualmente, estoy estudiando en la UTN (Universidad Tecnológica Nacional de Bahía Blanca).
-- 🎓 Etudiando Tecnicatura en Programación.
+- 🎓 Estudiando Tecnicatura en Programación.
 - 💻 Mis intereses incluyen el desarrollo de software, los videojuegos y la música.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fashur12&color=blue)
