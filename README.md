@@ -26,7 +26,7 @@
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fashur12&layout=compact&hide=html&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&hide=html&theme=dark)
 
 
 
@@ -34,13 +34,13 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fashur12&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 
 
 ## Contactame  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/fashur12)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Fausto-Desch)  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:fausdesch2210@gmail.com)  
 
