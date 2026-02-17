@@ -78,5 +78,6 @@ Interesado en participar en equipos donde pueda aportar valor técnico y continu
 ## Contacto
 
 GitHub: https://github.com/Fausto-Desch  
-Email: fausdesch2210@gmail.com  
+Email: faudesch2210@gmail.com 
+Instagram: https://www.instagram.com/fausto.desch/
 
