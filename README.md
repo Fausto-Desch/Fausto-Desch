@@ -66,9 +66,10 @@ Interesado en participar en equipos donde pueda aportar valor técnico y continu
 
 ## Estadísticas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
 
 ---
 
