@@ -1,39 +1,79 @@
 # Fausto Desch
 
-Desarrollador **Full Stack** y **Técnico en Programación**, enfocado en la creación de aplicaciones web modernas, escalables y orientadas a la experiencia del usuario.
-
-![Welcome Image](https://drive.google.com/uc?id=1TDHPQPrgEv75iGzxUR6X8JqpHAkPpZwE)
-
----
-
-## Sobre mí
-
-Soy **Fausto Desch**, Técnico en Programación formado en la **:contentReference[oaicite:0]{index=0}**.  
-Cuento con una sólida base en desarrollo de software y un fuerte interés en la construcción de soluciones digitales eficientes, mantenibles y bien diseñadas.
-
-Me especializo en desarrollo **Full Stack**, con mayor orientación al **Front-End**, priorizando buenas prácticas, rendimiento, accesibilidad y una experiencia de usuario clara.  
-Actualmente continúo ampliando mis conocimientos a través de proyectos personales y académicos, manteniendo una mentalidad de aprendizaje continuo.
+Full Stack Developer | Técnico en Programación  
+Especialización en Front-End moderno y desarrollo web escalable
 
 ---
 
-## Tecnologías y lenguajes
+## Perfil Profesional
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&hide=html&theme=dark)
+Soy Técnico en Programación con experiencia en desarrollo de aplicaciones web utilizando tecnologías modernas del ecosistema JavaScript.
+
+Mi enfoque principal está en el Front-End con React y Next.js, priorizando rendimiento, experiencia de usuario y buenas prácticas de desarrollo. Complemento mi perfil con conocimientos sólidos en backend, bases de datos y control de versiones.
+
+Trabajo con una mentalidad orientada a soluciones reales, código mantenible y mejora continua.
 
 ---
 
-## Estadísticas de GitHub
+## Stack Tecnológico
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+### Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- React
+- Next.js
+- TypeScript
+
+### Backend
+- Node.js
+- Python
+- C++
+
+### Bases de Datos
+- MongoDB
+- MySQL
+
+### Herramientas
+- Git
+- GitHub
+- Docker
+
+---
+
+## Enfoque Técnico
+
+- Desarrollo de aplicaciones SPA y SSR
+- Arquitectura basada en componentes
+- Consumo y creación de APIs REST
+- Manejo de estado y tipado seguro con TypeScript
+- Optimización de performance y SEO en Next.js
+- Control de versiones y trabajo colaborativo con Git
+
+---
+
+## Objetivo Profesional
+
+Busco oportunidades como:
+
+- Desarrollador Front-End
+- Desarrollador Full Stack
+- Colaborador en proyectos web
+
+Interesado en participar en equipos donde pueda aportar valor técnico y continuar creciendo profesionalmente.
+
+---
+
+## Estadísticas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&count_private=true&theme=dark)
 
 ---
 
 ## Contacto
 
-- **GitHub:** https://github.com/Fausto-Desch  
-- **Email:** fausdesch2210@gmail.com  
-- **YouTube:** https://www.youtube.com/@itsfausto7939  
-- **Instagram:** https://www.instagram.com/xfaustodeschx/  
-
-![Profile Views](https://komarev.com/ghpvc/?username=fashur12&color=blue)
+GitHub: https://github.com/Fausto-Desch  
+Email: fausdesch2210@gmail.com  
 
