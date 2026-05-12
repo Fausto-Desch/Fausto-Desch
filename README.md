@@ -117,7 +117,7 @@ Interesado en trabajar en proyectos desafiantes donde pueda seguir creciendo pro
 
 ---
 
-# 📊 Estadísticas de GitHub
+#  Estadísticas de GitHub
 
 <div align="center">
 
