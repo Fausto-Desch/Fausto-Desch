@@ -123,7 +123,7 @@ Interesado en trabajar en proyectos desafiantes donde pueda seguir creciendo pro
 
 
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=github_dark&hide_border=true"/>
+
 
 <br><br>
 
