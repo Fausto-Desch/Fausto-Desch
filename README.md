@@ -121,9 +121,15 @@ Interesado en trabajar en proyectos desafiantes donde pueda seguir creciendo pro
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Fausto-Desch">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Fausto-Desch">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Fausto-Desch&theme=tokyonight&hide_border=true"/>
 
