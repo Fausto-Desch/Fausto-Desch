@@ -117,17 +117,25 @@ Interesado en trabajar en proyectos desafiantes donde pueda seguir creciendo pro
 
 ---
 
-#  Estadísticas de GitHub
+#  Estadísticas y Actividad
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fausto-Desch&theme=github-dark-blue&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fausto-Desch&theme=github_dark"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fausto-Desch&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fausto-Desch&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fausto-Desch&theme=github_dark"/>
 
 </div>
 
