@@ -121,7 +121,7 @@ Interesado en trabajar en proyectos desafiantes donde pueda seguir creciendo pro
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
 
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=github_dark&hide_border=true"/>
 
