@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Fausto%20Desch&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 # Fausto Desch
 
 ### Full Stack Developer | Técnico en Programación
@@ -10,6 +12,7 @@ Desarrollo de aplicaciones web modernas, escalables y enfocadas en rendimiento.
   <a href="https://github.com/Fausto-Desch">
     <img src="https://img.shields.io/badge/GitHub-Fausto--Desch-181717?style=for-the-badge&logo=github">
   </a>
+
   <a href="mailto:fausdesch2210@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -114,13 +117,15 @@ Interesado en trabajar en proyectos desafiantes donde pueda seguir creciendo pro
 
 ---
 
-# 📊 Estadísticas de GitHub
+#  Estadísticas de GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fausto-Desch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fausto-Desch&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Fausto-Desch&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -138,7 +143,8 @@ Interesado en trabajar en proyectos desafiantes donde pueda seguir creciendo pro
 
 #  Contacto
 
- Email: **fausdesch2210@gmail.com**
+ Email:  
+**fausdesch2210@gmail.com**
 
  GitHub:  
  https://github.com/Fausto-Desch
@@ -146,10 +152,13 @@ Interesado en trabajar en proyectos desafiantes donde pueda seguir creciendo pro
  Instagram:  
  https://www.instagram.com/xfaustodeschx/
 
+
 ---
 
 <div align="center">
 
-### Gracias por visitar mi perfil 
+###  Gracias por visitar mi perfil
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
 
 </div>
